@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SuperSocketForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kind" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="port" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">5015</Value>
+    </Setting>
+    <Setting Name="host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sportmonitor</Value>
+    </Setting>
+    <Setting Name="srvport" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">5015</Value>
+    </Setting>
+    <Setting Name="webport" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">8087</Value>
+    </Setting>
+    <Setting Name="bIsAnswer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="srvip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123.57.145.215</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

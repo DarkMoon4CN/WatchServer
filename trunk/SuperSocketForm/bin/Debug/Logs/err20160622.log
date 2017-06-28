@@ -1,0 +1,46 @@
+﻿2016-06-22 20:28:37,019 [53] ERROR SuperSocketServer-41149443 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: Protocol message contained an invalid tag (zero).
+   在 Google.Protobuf.CodedInputStream.ReadTag() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 378
+   在 Google.Protobuf.CodedInputStream.SkipGroup(UInt32 startGroupTag) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 438
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 405
+   在 SuperSocketForm.USER_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 929
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-22 20:39:33,560 [17] ERROR SuperSocketServer-15645912 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: Protocol message contained an invalid tag (zero).
+   在 Google.Protobuf.CodedInputStream.ReadTag() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 378
+   在 Google.Protobuf.CodedInputStream.SkipGroup(UInt32 startGroupTag) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 438
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 405
+   在 Google.Protobuf.CodedInputStream.SkipGroup(UInt32 startGroupTag) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 449
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 405
+   在 SuperSocketForm.TIME_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 473
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 36
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-22 20:42:50,062 [19] ERROR SuperSocketServer-15645912 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: Protocol message contained an invalid tag (zero).
+   在 Google.Protobuf.CodedInputStream.ReadTag() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 378
+   在 Google.Protobuf.CodedInputStream.SkipGroup(UInt32 startGroupTag) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 438
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 405
+   在 Google.Protobuf.CodedInputStream.SkipGroup(UInt32 startGroupTag) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 449
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 405
+   在 SuperSocketForm.TIME_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 473
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 36
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-22 21:32:12,813 [14] ERROR SuperSocketServer-45592480 - SuperSocketForm.SuperSocketSession
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-22 21:32:32,409 [14] ERROR SuperSocketServer-45592480 - SuperSocketForm.SuperSocketSession
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-22 21:37:43,030 [15] ERROR SuperSocketServer-41149443 - SuperSocketForm.SuperSocketSession
+System.OverflowException: 算术运算导致溢出。
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, BinaryRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

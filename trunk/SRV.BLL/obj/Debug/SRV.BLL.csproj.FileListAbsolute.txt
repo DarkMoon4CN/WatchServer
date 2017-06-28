@@ -1,0 +1,10 @@
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\obj\Debug\SRV.BLL.csprojResolveAssemblyReference.cache
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.BLL.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.BLL.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\Google.Protobuf.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.Data.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.Model.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.Data.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\bin\Debug\SRV.Model.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\obj\Debug\SRV.BLL.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.BLL\obj\Debug\SRV.BLL.pdb

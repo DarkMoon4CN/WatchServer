@@ -1,0 +1,17 @@
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\bin\Debug\SRV.Data.dll
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\bin\Debug\SRV.Data.pdb
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\bin\Debug\MySql.Data.dll
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\obj\Debug\SRV.Data.dll
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\obj\Debug\SRV.Data.pdb
+D:\用户目录\Projs\SuperSocketForm\SRV.Data\obj\Debug\SRV.Data.csprojResolveAssemblyReference.cache
+D:\用户目录\Projs\monitor01\trunk\SRV.Data\bin\Debug\SRV.Data.dll
+D:\用户目录\Projs\monitor01\trunk\SRV.Data\bin\Debug\SRV.Data.pdb
+D:\用户目录\Projs\monitor01\trunk\SRV.Data\bin\Debug\MySql.Data.dll
+D:\用户目录\Projs\monitor01\trunk\SRV.Data\obj\Debug\SRV.Data.dll
+D:\用户目录\Projs\monitor01\trunk\SRV.Data\obj\Debug\SRV.Data.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\bin\Debug\SRV.Data.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\bin\Debug\SRV.Data.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\bin\Debug\Google.Protobuf.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\obj\Debug\SRV.Data.dll
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\obj\Debug\SRV.Data.pdb
+D:\WorkIteM\WorkSpace\MaiDongJianKang_Monitor_Net\trunk\SRV.Data\obj\Debug\SRV.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,150 @@
+﻿2016-06-22 18:14:47,987 [10] INFO  SuperSocketServer-41149443 - The server instance SuperSocketServer-41149443 has been started!
+2016-06-22 18:15:12,238 [11] INFO  SuperSocketServer-41149443 - Session: 0b3ff30a-c1b2-4533-8ff4-4ec995d58eff/192.168.0.102:48024
+A new session connected!
+2016-06-22 18:18:42,971 [6] INFO  SuperSocketServer-41149443 - Session: 0b3ff30a-c1b2-4533-8ff4-4ec995d58eff/192.168.0.102:48024
+This session was closed for ClientClosing!
+2016-06-22 18:19:04,336 [11] INFO  SuperSocketServer-41149443 - Session: f566d25a-efe3-4963-91af-957ef68d7ae7/192.168.0.102:50071
+A new session connected!
+2016-06-22 18:21:42,419 [6] INFO  SuperSocketServer-41149443 - Session: f566d25a-efe3-4963-91af-957ef68d7ae7/192.168.0.102:50071
+This session was closed for ClientClosing!
+2016-06-22 18:22:02,722 [18] INFO  SuperSocketServer-41149443 - Session: 02ebace3-0d3f-4e53-9719-557bc13a2653/192.168.0.102:51645
+A new session connected!
+2016-06-22 19:07:22,706 [18] INFO  SuperSocketServer-41149443 - Session: 02ebace3-0d3f-4e53-9719-557bc13a2653/192.168.0.102:51645
+This session was closed for ClientClosing!
+2016-06-22 19:07:40,635 [19] INFO  SuperSocketServer-41149443 - Session: df84199b-8033-4cf9-bd82-cd47481e38f8/192.168.0.102:11406
+A new session connected!
+2016-06-22 19:14:18,290 [14] INFO  SuperSocketServer-41149443 - Session: df84199b-8033-4cf9-bd82-cd47481e38f8/192.168.0.102:11406
+This session was closed for ClientClosing!
+2016-06-22 19:21:00,662 [19] INFO  SuperSocketServer-41149443 - Session: 7d983ce7-0159-4f5e-ab66-067b996bd619/192.168.0.102:18592
+A new session connected!
+2016-06-22 19:24:18,766 [3] INFO  SuperSocketServer-41149443 - Session: 7d983ce7-0159-4f5e-ab66-067b996bd619/192.168.0.102:18592
+This session was closed for ClientClosing!
+2016-06-22 19:24:33,235 [19] INFO  SuperSocketServer-41149443 - Session: 6f84aaf4-0080-4bc4-8e7c-8fbfc265c988/192.168.0.102:20511
+A new session connected!
+2016-06-22 19:25:12,849 [22] INFO  SuperSocketServer-41149443 - Session: 6f84aaf4-0080-4bc4-8e7c-8fbfc265c988/192.168.0.102:20511
+This session was closed for ClientClosing!
+2016-06-22 19:25:25,009 [19] INFO  SuperSocketServer-41149443 - Session: 8433f08c-bdf5-4831-8f86-77ef088d6f1f/192.168.0.102:20976
+A new session connected!
+2016-06-22 19:33:29,320 [3] INFO  SuperSocketServer-41149443 - Session: 8433f08c-bdf5-4831-8f86-77ef088d6f1f/192.168.0.102:20976
+This session was closed for ClientClosing!
+2016-06-22 19:33:38,477 [19] INFO  SuperSocketServer-41149443 - Session: 4e272bd1-086b-48f7-9fe7-8df2eb6f6913/192.168.0.102:25448
+A new session connected!
+2016-06-22 19:34:25,447 [3] INFO  SuperSocketServer-41149443 - Session: 4e272bd1-086b-48f7-9fe7-8df2eb6f6913/192.168.0.102:25448
+This session was closed for ClientClosing!
+2016-06-22 19:34:38,727 [19] INFO  SuperSocketServer-41149443 - Session: 194a5de4-54f2-4938-8da6-28ac4979d2d9/192.168.0.102:25980
+A new session connected!
+2016-06-22 19:39:25,892 [26] INFO  SuperSocketServer-41149443 - Session: 194a5de4-54f2-4938-8da6-28ac4979d2d9/192.168.0.102:25980
+This session was closed for ClientClosing!
+2016-06-22 19:39:36,918 [13] INFO  SuperSocketServer-41149443 - Session: ad10333d-a4b7-4f39-8fc2-2b938bb4ae99/192.168.0.102:28698
+A new session connected!
+2016-06-22 19:49:35,830 [26] INFO  SuperSocketServer-41149443 - Session: ad10333d-a4b7-4f39-8fc2-2b938bb4ae99/192.168.0.102:28698
+This session was closed for ClientClosing!
+2016-06-22 19:49:47,195 [28] INFO  SuperSocketServer-41149443 - Session: 9a3c5731-48e6-42a4-a6c4-90dae7d53d7c/192.168.0.102:34525
+A new session connected!
+2016-06-22 19:59:25,986 [33] INFO  SuperSocketServer-41149443 - Session: 9a3c5731-48e6-42a4-a6c4-90dae7d53d7c/192.168.0.102:34525
+This session was closed for ClientClosing!
+2016-06-22 20:08:21,713 [28] INFO  SuperSocketServer-41149443 - Session: ee844f65-a709-4dcb-95ec-ef950f20c807/192.168.0.102:44661
+A new session connected!
+2016-06-22 20:10:07,838 [36] INFO  SuperSocketServer-41149443 - Session: ee844f65-a709-4dcb-95ec-ef950f20c807/192.168.0.102:44661
+This session was closed for ClientClosing!
+2016-06-22 20:10:20,865 [28] INFO  SuperSocketServer-41149443 - Session: 6a8b797a-2903-4a2f-ba7a-2699ac7473a3/192.168.0.102:45729
+A new session connected!
+2016-06-22 20:12:31,224 [36] INFO  SuperSocketServer-41149443 - Session: 6a8b797a-2903-4a2f-ba7a-2699ac7473a3/192.168.0.102:45729
+This session was closed for ClientClosing!
+2016-06-22 20:12:40,914 [28] INFO  SuperSocketServer-41149443 - Session: 580a037a-0982-4bc2-97fc-f3f3d3cf6184/192.168.0.102:46963
+A new session connected!
+2016-06-22 20:14:35,977 [31] INFO  SuperSocketServer-41149443 - Session: 11d03657-8bd4-4e4a-beca-6270b6cc83f2/192.168.0.102:47981
+A new session connected!
+2016-06-22 20:19:00,529 [43] INFO  SuperSocketServer-41149443 - Session: 580a037a-0982-4bc2-97fc-f3f3d3cf6184/192.168.0.102:46963
+This session was closed for ClientClosing!
+2016-06-22 20:19:00,529 [46] INFO  SuperSocketServer-41149443 - Session: cadd5529-8ab7-4d8e-93f7-2fc9a3562cf2/192.168.0.102:50000
+A new session connected!
+2016-06-22 20:19:00,529 [42] INFO  SuperSocketServer-41149443 - Session: efc66446-49f9-4d8d-8532-01cb20c366a3/192.168.0.102:49196
+A new session connected!
+2016-06-22 20:19:07,921 [40] INFO  SuperSocketServer-41149443 - Session: efc66446-49f9-4d8d-8532-01cb20c366a3/192.168.0.102:49196
+This session was closed for ClientClosing!
+2016-06-22 20:21:00,490 [49] INFO  SuperSocketServer-41149443 - Session: 11d03657-8bd4-4e4a-beca-6270b6cc83f2/192.168.0.102:47981
+This session was closed for ClientClosing!
+2016-06-22 20:24:20,506 [44] INFO  SuperSocketServer-41149443 - Session: cadd5529-8ab7-4d8e-93f7-2fc9a3562cf2/192.168.0.102:50000
+This session was closed for ClientClosing!
+2016-06-22 20:24:44,804 [50] INFO  SuperSocketServer-41149443 - Session: 83047688-ca53-4063-8b98-edbeff6ec00a/192.168.0.102:53408
+A new session connected!
+2016-06-22 20:28:37,048 [53] INFO  SuperSocketServer-41149443 - Session: 83047688-ca53-4063-8b98-edbeff6ec00a/192.168.0.102:53408
+This session was closed for ApplicationError!
+2016-06-22 20:37:55,932 [10] INFO  SuperSocketServer-15645912 - The server instance SuperSocketServer-15645912 has been started!
+2016-06-22 20:38:12,676 [11] INFO  SuperSocketServer-15645912 - Session: bf0b7eea-fb99-4435-99bd-8d8335bbfd4f/192.168.0.102:60707
+A new session connected!
+2016-06-22 20:39:33,568 [17] INFO  SuperSocketServer-15645912 - Session: bf0b7eea-fb99-4435-99bd-8d8335bbfd4f/192.168.0.102:60707
+This session was closed for ApplicationError!
+2016-06-22 20:39:54,739 [18] INFO  SuperSocketServer-15645912 - Session: 56b891b9-8fbc-43d8-afb8-3bef5d9915c2/192.168.0.102:61608
+A new session connected!
+2016-06-22 20:42:50,063 [19] INFO  SuperSocketServer-15645912 - Session: 56b891b9-8fbc-43d8-afb8-3bef5d9915c2/192.168.0.102:61608
+This session was closed for ApplicationError!
+2016-06-22 20:43:04,759 [18] INFO  SuperSocketServer-15645912 - Session: 7a96d9b3-ea81-448e-a833-51a4b626bf3a/192.168.0.102:63290
+A new session connected!
+2016-06-22 20:54:25,765 [24] INFO  SuperSocketServer-15645912 - Session: 7a96d9b3-ea81-448e-a833-51a4b626bf3a/192.168.0.102:63290
+This session was closed for ClientClosing!
+2016-06-22 20:54:39,040 [27] INFO  SuperSocketServer-15645912 - Session: c6beb4aa-327c-4734-973d-8e2c5fa8e667/192.168.0.102:4994
+A new session connected!
+2016-06-22 20:58:14,560 [27] INFO  SuperSocketServer-15645912 - Session: a511d694-27cb-46cb-9b24-9838092af821/192.168.0.102:5756
+A new session connected!
+2016-06-22 20:58:19,006 [32] INFO  SuperSocketServer-15645912 - Session: 24c5f83f-1c8f-479b-b139-f97f551fbd99/192.168.0.102:6124
+A new session connected!
+2016-06-22 20:58:29,184 [31] INFO  SuperSocketServer-15645912 - Session: a511d694-27cb-46cb-9b24-9838092af821/192.168.0.102:5756
+This session was closed for ClientClosing!
+2016-06-22 21:00:59,258 [9] INFO  SuperSocketServer-11404313 - The server instance SuperSocketServer-11404313 has been started!
+2016-06-22 21:01:22,454 [10] INFO  SuperSocketServer-11404313 - Session: 46447e90-536c-458b-b58f-50af4e4db04c/192.168.0.102:8530
+A new session connected!
+2016-06-22 21:05:12,229 [16] INFO  SuperSocketServer-11404313 - Session: 46447e90-536c-458b-b58f-50af4e4db04c/192.168.0.102:8530
+This session was closed for ClientClosing!
+2016-06-22 21:05:24,872 [12] INFO  SuperSocketServer-11404313 - Session: 37288613-8b80-4203-a08b-3f37eea9f2d2/192.168.0.102:10697
+A new session connected!
+2016-06-22 21:06:40,756 [12] INFO  SuperSocketServer-11404313 - Session: 098dba67-0547-4034-ab59-612c4ebccf38/192.168.0.102:11389
+A new session connected!
+2016-06-22 21:08:01,378 [22] INFO  SuperSocketServer-11404313 - Session: 098dba67-0547-4034-ab59-612c4ebccf38/192.168.0.102:11389
+This session was closed for ClientClosing!
+2016-06-22 21:08:01,378 [23] INFO  SuperSocketServer-11404313 - Session: 37288613-8b80-4203-a08b-3f37eea9f2d2/192.168.0.102:10697
+This session was closed for ClientClosing!
+2016-06-22 21:09:12,220 [25] INFO  SuperSocketServer-11404313 - Session: cd7da5b9-27c1-49a7-8fa4-9f1868d04c23/192.168.0.102:12732
+A new session connected!
+2016-06-22 21:10:26,983 [10] INFO  SuperSocketServer-41149443 - The server instance SuperSocketServer-41149443 has been started!
+2016-06-22 21:10:50,348 [11] INFO  SuperSocketServer-41149443 - Session: f011411c-8d99-4054-884f-afb52f08025f/192.168.0.102:13606
+A new session connected!
+2016-06-22 21:11:45,644 [16] INFO  SuperSocketServer-41149443 - Session: f011411c-8d99-4054-884f-afb52f08025f/192.168.0.102:13606
+This session was closed for ClientClosing!
+2016-06-22 21:12:03,570 [14] INFO  SuperSocketServer-41149443 - Session: 519c9d05-d9d9-437e-903f-8a8cbd7e2bfa/192.168.0.102:14257
+A new session connected!
+2016-06-22 21:18:00,785 [19] INFO  SuperSocketServer-41149443 - Session: 519c9d05-d9d9-437e-903f-8a8cbd7e2bfa/192.168.0.102:14257
+This session was closed for ClientClosing!
+2016-06-22 21:18:12,897 [17] INFO  SuperSocketServer-41149443 - Session: 4a9773fb-9a84-43f4-baa6-d04c4878f455/192.168.0.102:17700
+A new session connected!
+2016-06-22 21:20:36,273 [19] INFO  SuperSocketServer-41149443 - Session: 4a9773fb-9a84-43f4-baa6-d04c4878f455/192.168.0.102:17700
+This session was closed for ClientClosing!
+2016-06-22 21:20:55,576 [26] INFO  SuperSocketServer-41149443 - Session: ee7d50b8-8496-4cf1-8f5d-d9e6ed71dae6/192.168.0.102:19154
+A new session connected!
+2016-06-22 21:26:06,664 [27] INFO  SuperSocketServer-41149443 - Session: 77a42dc8-7026-41b6-bf44-28ab0a013711/192.168.0.102:21628
+A new session connected!
+2016-06-22 21:26:19,587 [32] INFO  SuperSocketServer-41149443 - Session: ee7d50b8-8496-4cf1-8f5d-d9e6ed71dae6/192.168.0.102:19154
+This session was closed for ClientClosing!
+2016-06-22 21:30:10,556 [9] INFO  SuperSocketServer-45592480 - The server instance SuperSocketServer-45592480 has been started!
+2016-06-22 21:30:22,875 [10] INFO  SuperSocketServer-45592480 - Session: 91316c23-44ef-4013-b2ea-8d6b7ad0b3d2/192.168.0.102:24213
+A new session connected!
+2016-06-22 21:32:12,819 [14] INFO  SuperSocketServer-45592480 - Session: 91316c23-44ef-4013-b2ea-8d6b7ad0b3d2/192.168.0.102:24213
+This session was closed for ApplicationError!
+2016-06-22 21:32:23,675 [17] INFO  SuperSocketServer-45592480 - Session: 029cd412-481f-412a-ba65-81c5dd610df7/192.168.0.102:25277
+A new session connected!
+2016-06-22 21:32:32,409 [14] INFO  SuperSocketServer-45592480 - Session: 029cd412-481f-412a-ba65-81c5dd610df7/192.168.0.102:25277
+This session was closed for ApplicationError!
+2016-06-22 21:35:00,506 [10] INFO  SuperSocketServer-41149443 - The server instance SuperSocketServer-41149443 has been started!
+2016-06-22 21:35:20,414 [11] INFO  SuperSocketServer-41149443 - Session: 5e4c20cc-1acb-494a-b9bb-10b9e1b67b23/192.168.0.102:26846
+A new session connected!
+2016-06-22 21:37:43,035 [15] INFO  SuperSocketServer-41149443 - Session: 5e4c20cc-1acb-494a-b9bb-10b9e1b67b23/192.168.0.102:26846
+This session was closed for ApplicationError!
+2016-06-22 21:39:28,443 [13] INFO  SuperSocketServer-41149443 - Session: 0b9ef3fa-4a19-4add-89ee-c33cccbabdc1/192.168.0.102:29070
+A new session connected!
+2016-06-22 21:57:53,492 [10] INFO  SuperSocketServer-41149443 - The server instance SuperSocketServer-41149443 has been started!
+2016-06-22 21:58:07,531 [11] INFO  SuperSocketServer-41149443 - Session: bf93e8dc-39b3-4d5c-937a-e2cf572d4893/192.168.0.102:11510
+A new session connected!
+2016-06-22 22:04:23,180 [10] INFO  SuperSocketServer-41149443 - The server instance SuperSocketServer-41149443 has been started!
+2016-06-22 22:04:40,043 [11] INFO  SuperSocketServer-41149443 - Session: bc5e32a3-d2f7-43e5-84d4-7c49c5a98fc5/192.168.0.102:15045
+A new session connected!

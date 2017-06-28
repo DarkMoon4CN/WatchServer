@@ -1,0 +1,46 @@
+﻿2016-06-21 19:51:50,705 [23] ERROR SuperSocketServer-45523402 - Listener (0.0.0.0:5015) error: 远程主机强迫关闭了一个现有的连接。
+System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+2016-06-21 21:00:43,713 [16] ERROR SuperSocketServer-2637164 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: While parsing a protocol message, the input ended unexpectedly in the middle of a field.  This could mean either than the input has been truncated or that an embedded message misreported its own length.
+   在 Google.Protobuf.CodedInputStream.RefillBuffer(Boolean mustSucceed) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1042
+   在 Google.Protobuf.CodedInputStream.ReadRawByte() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1072
+   在 Google.Protobuf.CodedInputStream.ReadRawLittleEndian64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 886
+   在 Google.Protobuf.CodedInputStream.ReadFixed64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 520
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 414
+   在 SuperSocketForm.USER_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 929
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, StringRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-21 21:05:19,071 [26] ERROR SuperSocketServer-2637164 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: While parsing a protocol message, the input ended unexpectedly in the middle of a field.  This could mean either than the input has been truncated or that an embedded message misreported its own length.
+   在 Google.Protobuf.CodedInputStream.RefillBuffer(Boolean mustSucceed) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1042
+   在 Google.Protobuf.CodedInputStream.ReadRawByte() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1072
+   在 Google.Protobuf.CodedInputStream.ReadRawLittleEndian64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 886
+   在 Google.Protobuf.CodedInputStream.ReadFixed64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 520
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 414
+   在 SuperSocketForm.USER_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 929
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, StringRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-21 22:02:55,674 [26] ERROR SuperSocketServer-2637164 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: While parsing a protocol message, the input ended unexpectedly in the middle of a field.  This could mean either than the input has been truncated or that an embedded message misreported its own length.
+   在 Google.Protobuf.CodedInputStream.RefillBuffer(Boolean mustSucceed) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1042
+   在 Google.Protobuf.CodedInputStream.ReadRawByte() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 1072
+   在 Google.Protobuf.CodedInputStream.ReadRawLittleEndian64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 886
+   在 Google.Protobuf.CodedInputStream.ReadFixed64() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 520
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 414
+   在 SuperSocketForm.USER_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 929
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, StringRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2016-06-21 22:02:57,057 [30] ERROR SuperSocketServer-2637164 - SuperSocketForm.SuperSocketSession
+Google.Protobuf.InvalidProtocolBufferException: SkipLastField called on an end-group tag, indicating that the corresponding start-group was missing
+   在 Google.Protobuf.CodedInputStream.SkipLastField() 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\CodedInputStream.cs:行号 408
+   在 SuperSocketForm.USER_INFO.MergeFrom(CodedInputStream input) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\DevData.cs:行号 929
+   在 Google.Protobuf.MessageExtensions.MergeFrom(IMessage message, Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageExtensions.cs:行号 52
+   在 Google.Protobuf.MessageParser`1.ParseFrom(Byte[] data) 位置 D:\work\protobuf-3.0.0-beta-3.1\protobuf-3.0.0-beta-3.1\csharp\src\Google.Protobuf\MessageParser.cs:行号 196
+   在 SuperSocketForm.SuperSocketForm.appServer_NewRequestReceived(SuperSocketSession session, StringRequestInfo requestInfo) 位置 d:\用户目录\Projs\SuperSocketForm\SuperSocketForm\SuperSocketForm.cs:行号 34
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

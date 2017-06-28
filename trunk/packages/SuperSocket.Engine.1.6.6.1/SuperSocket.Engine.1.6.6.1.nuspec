@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SuperSocket.Engine</id>
+    <version>1.6.6.1</version>
+    <title>SuperSocket.Engine</title>
+    <authors>Kerry Jiang</authors>
+    <owners>Kerry Jiang</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://www.supersocket.net/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SuperSocket is a light weight, cross platform and extensible socket server application framework. You can use it to build a server side socket application (like game server, GPS server, industrial control system, data acquisition server etc) easily without thinking about how to use socket, how to maintain the socket connections and how socket works.</description>
+    <summary />
+    <releaseNotes>Fixed an unhandled exception about performance counter when stop server instance;</releaseNotes>
+    <tags>SuperSocket Socket Server .Net Server Framework</tags>
+    <dependencies>
+      <dependency id="log4net" version="2.0.3" />
+      <dependency id="SuperSocket" version="1.6.6.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework="" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="SuperSocket.SocketEngine.dll" />
+      <reference file="SuperSocket.SocketService.exe" />
+    </references>
+  </metadata>
+</package>
